@@ -1,18 +1,18 @@
 #logo-icon, #logo-icon #logo, #logo-icon .yt-icon {
-	display: inline-block !important;
-	padding: 0px !important;
+    display: inline-block !important;
+    padding: 0px !important;
     width: 118px !important;
     height: 36px !important;
     min-width: 118px !important;
     min-height: 36px !important;
     max-width: 118px !important;
     max-height: 36px !important;
-	margin-top: -1px !important;
-	margin-bottom: -5px !important;
-	padding-right: 15px !important;
+    margin-top: -1px !important;
+    margin-bottom: -5px !important;
+    padding-right: 15px !important;
 }
 #logo-icon .yt-icon, #logo-icon #logo {
-	background: url(http://oi43.tinypic.com/vgizgz.jpg) 0 0 no-repeat !important;	
+    background: url(http://oi43.tinypic.com/vgizgz.jpg) 0 0 no-repeat !important;	
 }
 #youtube-paths, .g {
     visibility: hidden !important;
@@ -21,28 +21,28 @@
     visibility: hidden !important;
 }
 #logo-icon .content-region {
-	position: relative !important;
-	left: 120px !important;
-	top: -33px !important;
-	padding: 0px !important;
-	margin: 0px !important;
+    position: relative !important;
+    left: 120px !important;
+    top: -33px !important;
+    padding: 0px !important;
+    margin: 0px !important;
 }
 #appbar-guide-button {
-	position: relative !important;
-	top: 1px !important;
-	left: 3px !important;
+    position: relative !important;
+    top: 1px !important;
+    left: 3px !important;
 }
 div.ytd-topbar-logo-renderer {
-	width: 200px !important;
+    width: 200px !important;
     height: 30px !important;
 }
 #footer-logo span, #footer-logo img {
-	position: relative !important;
-	display: block !important;
-	background: url(http://oi43.tinypic.com/vgizgz.jpg) -45px 0 no-repeat !important;
-	padding-left: 73px !important;
-	padding-top: 36px !important;
+    position: relative !important;
+    display: block !important;
+    background: url(http://oi43.tinypic.com/vgizgz.jpg) -45px 0 no-repeat !important;
+    padding-left: 73px !important;
+    padding-top: 36px !important;
     width: 0px !important;
     height: 0px !important;
-	top: 13px !important;
+    top: 13px !important;
 }
