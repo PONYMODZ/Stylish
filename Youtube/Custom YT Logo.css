@@ -1,3 +1,8 @@
+/* YT RED/Premium Fix */
+#logo-red-icon-container.ytd-topbar-logo-renderer {
+    visibility: hidden;
+}
+
 #logo-icon-container,
 #logo-icon-container #logo,
 #logo-icon-container .yt-icon-container {
